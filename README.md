@@ -178,7 +178,7 @@ Take care!
 
 ## New Relic Integration and Monitoring Guide
 
-This guide provides step-by-step instructions for integrating New Relic with your Java application, monitoring its performance, and troubleshooting common issues. What I learned exploring te New Relic platform.
+This guide provides step-by-step instructions for integrating New Relic with your Java application, monitoring its performance, and troubleshooting common issues. What I learned exploring the New Relic platform.
 
 ### Prerequisites
 
