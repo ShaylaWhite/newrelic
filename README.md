@@ -314,7 +314,6 @@ Thank you to the following resources and individuals for their contributions and
 
 - **New Relic Documentation:** Provided detailed information on APM setup, troubleshooting, and best practices.
 - **OpenTelemetry Documentation:** Comprehensive guides on instrumenting applications and utilizing distributed tracing for observability.
-- **Customer Support Session:** Valuable insights and feedback from customer interactions that helped refine troubleshooting strategies.
 
 ## References Used
 
